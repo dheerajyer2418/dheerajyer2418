@@ -1,108 +1,99 @@
-# 👋 Dheeraj Yerneni  
-**Senior Computer Science @ UIC | Machine Learning • Data Systems • Decision Intelligence**
+<!-- ================= HERO ANIMATION ================= -->
+<!-- This creates the animated typing header at the top of your profile -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.herokuapp.com?size=26&duration=2600&pause=700&center=true&vCenter=true&width=900&lines=Dheeraj+Yerneni;Senior+CS+%40+UIC;Applied+ML+%7C+Decision+Systems+%7C+Data-Driven+Builders;Predictive+Maintenance+%7C+Explainable+Risk+Scoring;Accessibility+Innovation+for+Low-Vision+Tools" 
+      alt="Typing animation"
+    />
+  </a>
+</p>
 
-I build production-minded, data-driven systems that turn signals into decisions.
-
-Focused on:
-- applied machine learning
-- predictive systems
-- explainable risk modeling
-- accessibility innovation
-
-I care about clarity, operational impact, and real-world deployment — not just models.
+<!-- Short identity statement -->
+<p align="center">
+  <b>Senior Computer Science + Linguistics @ UIC</b> • Honors • Hackathon Winner  
+  <br/>
+  I build <b>operational, explainable ML systems</b> that turn signals into decisions.
+</p>
 
 ---
 
-## 🚀 What I’m Building Right Now
-
-Predictive ML systems
-- Fleet-level failure prediction
-- Risk-scoring engines for operational decisions
-- Time-based simulation datasets for training models
-
-Accessibility tools
-- Non-visual interfaces for low-vision users
-- Spatial + haptic interaction design
-- AI workflows beyond standard assistive tech
-
-Rapid enterprise prototyping
-- Hackathon-driven systems built end-to-end
-- Dashboard + backend + ML in days, not months
+## 🚀 What I’m Working On
+<!-- Current focus areas — keep concise for recruiters -->
+- Predictive maintenance dashboards (fleet-level ML)
+- Risk-scoring systems for operational decisions
+- Synthetic datasets for machine simulation
+- Accessibility tools for low-vision users
 
 ---
 
 ## 🧠 Technical Strengths
+<!-- Core competencies — communicates expertise quickly -->
+- Probability, entropy, mutual information  
+- Decision trees & interpretable ML  
+- Predictive modeling & risk scoring  
+- Time-based feature engineering  
+- Data → decision system design  
 
-### Machine Learning
-- Probability, entropy, mutual information
-- Decision trees & interpretable models
-- Predictive modeling & risk scoring
-- Time-series feature engineering
-- Synthetic dataset generation
+---
 
-### Systems
-- Real-time dashboards & data pipelines
-- ML → decision architecture
-- Backend logic for operational tools
-- Model explainability & stakeholder communication
+## 🧰 Tech Stack
+<!-- Logo-based skills display — easier to scan than paragraphs -->
+
+### Languages
+<p>
+  <!-- Programming languages -->
+  <img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-111827?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-111827?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</p>
+
+### Frameworks & Libraries
+<p>
+  <!-- Frontend + ML + backend -->
+  <img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-111827?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
+
+### Cloud & Data
+<p>
+  <!-- Data engineering & cloud tools -->
+  <img src="https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Databricks-111827?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-111827?style=for-the-badge&logo=powerbi&logoColor=white"/>
+</p>
 
 ### Tools
-- Python, TypeScript, SQL
-- scikit-learn, FastAPI, React
-- Data simulation & model pipelines
+<p>
+  <!-- Dev workflow tools -->
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-111827?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-111827?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</p>
 
 ---
 
 ## ⭐ Featured Projects
-
-### 🔧 Predictive Maintenance Platform
-Fleet-level ML system forecasting machine failure and enabling proactive maintenance + procurement decisions.
-
-### 📊 Risk Scoring Engine
-Transforms sensor and operational data into explainable risk levels and decision triggers.
-
-### 🧪 Synthetic Machine Simulation Framework
-Generates lifecycle datasets to train and evaluate predictive models.
-
-### ♿ Accessibility Innovation Work
-Explores non-visual, AI-assisted workflows for low-vision individuals beyond traditional approaches.
-
----
-
-## 💡 What Sets Me Apart
-
-- I build end-to-end systems, not isolated models  
-- I prioritize explainability and decision impact  
-- I translate ML into tools people actually use  
-- I prototype enterprise-grade ideas quickly
+<!-- Keep these short — one line each -->
+- Predictive Maintenance Platform — fleet ML + risk forecasting dashboard  
+- Risk Scoring Engine — interpretable decision system  
+- Machine Simulation Dataset Generator — lifecycle-based synthetic data  
+- Accessibility Innovation — non-visual interaction prototypes  
 
 ---
 
 ## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/dheeraj-yerneni/ 
+<!-- Replace with your actual info -->
+- LinkedIn: https://www.linkedin.com/in/dheeraj-yerneni/  
 - Email: dheerajyerneni@gmail.com
-
----
-
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dheerajyer2418&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dheerajyer2418&layout=compact)
-
----
-
-## 🧭 Career Direction
-
-Seeking roles in:
-- Machine Learning Engineering
-- Data Science
-- Applied AI
-- Decision Intelligence Systems
-
-Interested in:
-- predictive systems
-- operational ML
-- real-world deployment
-- accessibility innovation
